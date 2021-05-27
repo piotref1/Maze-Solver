@@ -1,0 +1,116 @@
+﻿  Maze.cpp
+C:\Users\sds\source\repos\Maze\Maze\Buttons.h(34,67): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\sds\source\repos\Maze\Maze\Buttons.h(34,51): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\sds\source\repos\Maze\Maze\Buttons.h(35,73): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\sds\source\repos\Maze\Maze\Buttons.h(35,57): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\sds\source\repos\Maze\Maze\Buttons.h(36,79): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\sds\source\repos\Maze\Maze\Buttons.h(36,57): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\sds\source\repos\Maze\Maze\Buttons.h(37,73): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\sds\source\repos\Maze\Maze\Buttons.h(37,51): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\sds\source\repos\Maze\Maze\Buttons.h(40,70): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\sds\source\repos\Maze\Maze\Buttons.h(40,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\sds\source\repos\Maze\Maze\Buttons.h(41,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\sds\source\repos\Maze\Maze\Buttons.h(41,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\sds\source\repos\Maze\Maze\Buttons.h(42,82): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\sds\source\repos\Maze\Maze\Buttons.h(42,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\sds\source\repos\Maze\Maze\Buttons.h(43,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\sds\source\repos\Maze\Maze\Buttons.h(43,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\sds\source\repos\Maze\Maze\Maze.cpp(51,9): warning C4101: 'x': unreferenced local variable
+C:\Users\sds\source\repos\Maze\Maze\Buttons.h(77): warning C4715: 'drawing_during': not all control paths return a value
+  Maze.vcxproj -> C:\Users\sds\source\repos\Maze\x64\Debug\Maze.exe
